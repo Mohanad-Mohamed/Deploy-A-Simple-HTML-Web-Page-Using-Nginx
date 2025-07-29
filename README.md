@@ -23,5 +23,3 @@ To run the application using Docker:
 - Docker
 - Nginx
 
-## License
-This project is licensed under the MIT License.
